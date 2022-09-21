@@ -5,8 +5,8 @@
 <h2>🔹 Open to new experiences and jobs</h2>
 <div align="">
   <a href="https://github.com/Tailankrummenauer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tailankrummenauer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tailankrummenauer&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Tailankrummenauer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tailankrummenauer&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <h3>Languages that i'm learning:</h3> 
