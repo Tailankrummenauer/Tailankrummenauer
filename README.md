@@ -1,3 +1,8 @@
+<h1>Hi, I'm Tailan</h1>
+
+<h2>🔹 Working in personal projects</h2>
+
+<h2>🔹 Open to new experiences and jobs</h2>
 <div align="">
   <a href="https://github.com/Tailankrummenauer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tailankrummenauer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
