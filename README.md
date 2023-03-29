@@ -1,5 +1,10 @@
-## 💫 About Me:
-🔭 Atualmente trabalho com HelpDesk.<br>👯 Procurando trabalho para DEV.<br>🌱Estou aprendendo JAVA, Spring, HTML, CSS, JavaScript.<br>
+## 💫 Sobre mim:
+🔭 Atualmente trabalho com HelpDesk.<br>👯 Procurando trabalho para DEV.
+<br>🌱Estou aprendendo JAVA, Spring, HTML, CSS, JavaScript.
+<ul>## 🚀Habilidades
+  <li>Front-End: HTML, CSS, JavaScript, ReactJS, BootStrap, Bulma<li/>
+
+
 
 
 ## 🌐 Socials:
